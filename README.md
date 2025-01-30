@@ -1,4 +1,4 @@
-# IT-academy-Sprint-4
+# IT Academy - Sprint 4
 # Modelat SQL
 
 
